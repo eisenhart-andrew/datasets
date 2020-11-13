@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 
 datasets that have been cleaned up for use in ML studies
 
